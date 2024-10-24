@@ -1,5 +1,5 @@
-lado1=float(input("Ingrese la base del rectangulo: ",))
-lado2=float(input("ingresa la altura del rectangulo: "),)
+lado1=float(input("Ingrese un lado del cuadrado: ",))
+lado2=float(input("ingresa otro lado del cuadrado: "),)
 
 area=lado1*lado2
 
